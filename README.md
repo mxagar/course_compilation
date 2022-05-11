@@ -6,13 +6,14 @@ For more information, please, visit my website: [mikelsagardia.io](mikelsagardia
 
 ## Table of Contents
 
-- Machine Learning
-- Software Development & DevOps
-- Management & Finance
-- Robotics
-- Projects
+- Machine Learning Courses
+- Software Development & DevOps Courses
+- Management & Finance Courses
+- Robotics Courses
+- Course Related Projects
+- Other Projects
 
-## Machine Learning
+## Machine Learning Courses
 
 - Deep Learning Nanodegree, Udacity (150+ hours)
 	- Notes repository
@@ -39,27 +40,27 @@ For more information, please, visit my website: [mikelsagardia.io](mikelsagardia
 - Python for Data Science, Udemy
 - Python for Computer Vision, Udemy
 
-## Software Development & DevOps
+## Software Development & DevOps Courses
 
 - Accelerated Computer Science Funamentals Specialization, Coursera
 - Gitlab CI/CD, Udemy
 - Docker, Swarm, Kubernetes, Udemy
 - Ansible
 
-## Management & Finance
+## Management & Finance Courses
 
 - Accounting for Managers, Coursera
 - Learning How to Learn, Coursera
 - Python for Finance, Udemy
 
-## Robotics
+## Robotics Courses
 
 - ROS, Udemy
 - Kalman Filter, Udemy
 - Path Finding, Udemy
 - Control, Udemy
 
-## Projects
+## Course Related Projects
 
 - Writing a Data Science Blog Post
 - Upload a Package to PyPi
@@ -80,3 +81,13 @@ For more information, please, visit my website: [mikelsagardia.io](mikelsagardia
 - Build an ML Pipeline for Short-term Rental Prices in NYC
 - Deploying a Machine Learning Model on Heroku with FastAPI
 - A Dynamic Risk Assessment System
+
+## Other Projects
+
+- Realtime Collision Avoidance for Mechanisms with Complex Geometries
+- Multimodal Evaluation of the Differences between Real and Virtual Assemblies
+- A Platform for Bimanual Virtual Assembly Training with Haptic Feedback in Large Multi-Object Environments
+- Narrow Passage Sampling in the Observation of Robotic Assembly Tasks
+- VR-OOS: The DLR’s Virtual Reality Simulator for Telerobotic On-Orbit Servicing With Haptic Feedback
+- A New Fast and Robust Collision Detection and Force Computation Algorithm Applied to the Physics Engine Bullet: Method, Integration, and Evaluation
+- Ultrapiano: A Novel Human-Machine Interface Applied to Virtual Reality

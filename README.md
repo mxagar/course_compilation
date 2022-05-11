@@ -2,7 +2,7 @@
 
 This is the compilation of most of the courses I have done. I collect certificates, links to repositories, guides, projects, etc.
 
-For more information, please, visit my website: [mikelsagardia.io](mikelsagardia.io).
+For more information, please, visit my website: [mikelsagardia.io](https://mikelsagardia.io).
 
 ## Table of Contents
 

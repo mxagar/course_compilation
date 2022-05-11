@@ -15,13 +15,13 @@ For more information, please, visit my website: [mikelsagardia.io](mikelsagardia
 
 ## Machine Learning Courses
 
-- Deep Learning Nanodegree, Udacity (150+ hours): [Notes & Code] [Certificate]
-- Computer Vision Nanodegree, Udacity (120+ hours)
-- Data Science Nanodegree, Udacity (150+ hours)
-- Machine Learning DevOps Engineer Nanodegree, Udacity (150+ hours)
-- IBM Machine Learning Professional Certificate, Coursera (85+ hours)
-- Machine Learning, Coursera (60+ hours)
-- Statistics with Python Specialization, Coursera (60+ hours)
+- Deep Learning Nanodegree, Udacity: [Notes & Code] [Certificate]
+- Computer Vision Nanodegree, Udacity: [Notes & Code] [Certificate]
+- Data Science Nanodegree, Udacity: [Notes & Code] [Certificate]
+- Machine Learning DevOps Engineer Nanodegree, Udacity: [Notes & Code] [Certificate]
+- IBM Machine Learning Professional Certificate, Coursera: [Notes & Code] [Certificate]
+- Machine Learning, Coursera: [Notes & Code] [Certificate]
+- Statistics with Python Specialization, Coursera: [Notes & Code] [Certificate]
 
 - NLP, Udemy
 - SQL, Udemy

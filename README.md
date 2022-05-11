@@ -15,15 +15,7 @@ For more information, please, visit my website: [mikelsagardia.io](mikelsagardia
 
 ## Machine Learning Courses
 
-- Deep Learning Nanodegree, Udacity (150+ hours)
-	- Notes repository
-	- Certificate
-	- Projects: 
-		- Predicting Bike Sharing Patterns
-		- Dog Breed Classifier
-		- Cancer Detection
-		- Generate TV Scripts
-		- Deploying a Sentiment Analysis Model
+- Deep Learning Nanodegree, Udacity (150+ hours): [Notes & Code] [Certificate]
 - Computer Vision Nanodegree, Udacity (120+ hours)
 - Data Science Nanodegree, Udacity (150+ hours)
 - Machine Learning DevOps Engineer Nanodegree, Udacity (150+ hours)
@@ -32,8 +24,6 @@ For more information, please, visit my website: [mikelsagardia.io](mikelsagardia
 - Statistics with Python Specialization, Coursera (60+ hours)
 
 - NLP, Udemy
-	- Notes
-	- Certificate
 - SQL, Udemy
 - Reinforcement Learning, Udemy
 - Keras & Tensorflow, Udemy
@@ -82,7 +72,7 @@ For more information, please, visit my website: [mikelsagardia.io](mikelsagardia
 - Deploying a Machine Learning Model on Heroku with FastAPI
 - A Dynamic Risk Assessment System
 
-## Other Projects
+## Other Public Projects
 
 - Realtime Collision Avoidance for Mechanisms with Complex Geometries
 - Multimodal Evaluation of the Differences between Real and Virtual Assemblies

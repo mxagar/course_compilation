@@ -1,6 +1,6 @@
 # Mikel Sagardia - Compilation of Course Certificates and Repositories
 
-This is the compilation of most of the courses I have done. I collect certificates, links to repositories, guides, projects, etc.
+This is the compilation of most of the courses I have done. I collect certificates, links to repositories, guides, notes & code of the projects, etc.
 
 For more related information, please, visit:
 
@@ -8,23 +8,23 @@ For more related information, please, visit:
 - My **portfolio of projects**: [github.com/mxagar/project_compilation](https://github.com/mxagar/project_compilation)
 - The list of my **research papers**: [mikelsagardia.io/publications/](https://mikelsagardia.io/publications/)
 
-## Table of Contents
+### Table of Contents
 
-- Machine Learning Courses
-- Software Development & DevOps Courses
-- Management & Finance Courses
-- Robotics Courses
+- [Machine Learning Courses](#Machine-Learning-Courses)
+- [Software Development & DevOps Courses](#Software-Development-&-DevOps-Courses)
+- [Management & Finance Courses](#Management-&-Finance-Courses)
+<!--- [Robotics Courses](#Robotics-Courses)-->
 - [Project Portfolio](https://github.com/mxagar/project_compilation)
 
 ## Machine Learning Courses
 
-- Deep Learning Nanodegree, Udacity: [Notes & Code] [Certificate] [Projects]
-- Computer Vision Nanodegree, Udacity: [Notes & Code] [Certificate] [Projects]
-- Data Science Nanodegree, Udacity: [Notes & Code] [Certificate] [Projects]
-- Machine Learning DevOps Engineer Nanodegree, Udacity: [Notes & Code] [Certificate] [Projects]
-- IBM Machine Learning Professional Certificate, Coursera: [Notes & Code] [Certificate]
-- Machine Learning, Coursera: [Notes & Code] [Certificate]
-- Statistics with Python Specialization, Coursera: [Notes & Code] [Certificate]
+- [Deep Learning Nanodegree, Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101): [Notes & Code](https://github.com/mxagar/deep_learning_udacity) | [Certificate](#).
+- [Computer Vision Nanodegree, Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891): [Notes & Code](https://github.com/mxagar/computer_vision_udacity) | [Certificate](#).
+- [Data Science Nanodegree, Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025): [Notes & Code](https://github.com/mxagar/data_science_udacity) | [Certificate](#).
+- [Machine Learning DevOps Engineer Nanodegree, Udacity](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821): [Notes & Code](https://github.com/mxagar/mlops_udacity) | [Certificate](#).
+- [IBM Machine Learning Professional Certificate, Coursera / IBM](https://www.coursera.org/professional-certificates/ibm-machine-learning): [Notes & Code](https://github.com/mxagar/machine_learning_ibm) | [Certificate](#).
+- [Machine Learning, Coursera / Standford](https://www.coursera.org/learn/machine-learning): [Notes & Code](https://github.com/mxagar/machine_learning_coursera) | [Certificate](#).
+- [Statistics with Python Specialization, Coursera / Uni. Michigan](https://www.coursera.org/specializations/statistics-with-python): [Notes & Code](https://github.com/mxagar/statistics_with_python_coursera) | [Certificate](#).
 
 - NLP, Udemy
 - SQL, Udemy
@@ -46,9 +46,11 @@ For more related information, please, visit:
 - Learning How to Learn, Coursera
 - Python for Finance, Udemy
 
+<!--
 ## Robotics Courses
 
 - ROS, Udemy
 - Kalman Filter, Udemy
 - Path Finding, Udemy
 - Control, Udemy
+-->

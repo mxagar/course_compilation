@@ -1,6 +1,6 @@
 # Mikel Sagardia - Compilation of Course Certificates and Repositories
 
-This is the compilation of most of the courses I have done. I collect certificates, links to repositories, guides, notes & code of the projects, etc.
+This is the compilation of most of the courses I have done. I collect certificates, links to repositories, guides, and **notes & code** :smile:.
 
 For more related information, please, visit:
 
@@ -44,6 +44,7 @@ For more related information, please, visit:
 
 - Accounting for Managers, Coursera
 - Learning How to Learn, Coursera
+- Financial Markets, Coursera
 - Python for Finance, Udemy
 
 <!--

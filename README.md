@@ -19,7 +19,7 @@ For more related information, please, visit:
 ## Machine Learning Courses
 
 - Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | [Certificate](#) | :star: :star: :star: :star: __ 
-- Computer Vision Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | [Course Link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | [Certificate](#) | :star: :star: :star: :star: __
+- Computer Vision Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | [Course Link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | [Certificate](#) | :star: :star: :star: __ __
 - Data Science Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/data_science_udacity) | [Course Link](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | [Certificate](#) | :star: :star: :star: :star: __
 - Machine Learning DevOps Engineer Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/mlops_udacity) | [Course Link](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) | [Certificate](#) | :star: :star: :star: :star: :star:
 - IBM Machine Learning Professional Certificate, Coursera / IBM: [Guide & Code](https://www.coursera.org/professional-certificates/ibm-machine-learning) | [Course Link](https://github.com/mxagar/machine_learning_ibm) | [Certificate](#) | :star: :star: :star: :star: __

@@ -11,9 +11,11 @@ For more related information, please, visit:
 
 ### Table of Contents
 
-- [Machine Learning Courses](#Machine-Learning-Courses)
-- [Software Development & DevOps Courses](#Software-Development-&-DevOps-Courses)
-- [Management & Finance Courses](#Management-&-Finance-Courses)
+- [Mikel Sagardia - Compilation of Course Certificates and Repositories](#mikel-sagardia---compilation-of-course-certificates-and-repositories)
+    - [Table of Contents](#table-of-contents)
+  - [Machine Learning Courses](#machine-learning-courses)
+  - [Software Development \& DevOps Courses](#software-development--devops-courses)
+  - [Management \& Finance Courses](#management--finance-courses)
 <!--- [Robotics Courses](#Robotics-Courses)-->
 
 ## Machine Learning Courses
@@ -25,6 +27,7 @@ For more related information, please, visit:
 - Machine Learning, Coursera / Univ. Standford: [Guide & Code](https://github.com/mxagar/machine_learning_coursera) | [Course Link](https://www.coursera.org/learn/machine-learning) | [Certificate](./certificates/Coursera_Certificate_MachineLearning_2022.pdf) | :star: :star: :star: :star: :star:
 - Statistics with Python Specialization, Coursera / Uni. Michigan: [Guide & Code](https://github.com/mxagar/statistics_with_python_coursera) | [Course Link](https://www.coursera.org/specializations/statistics-with-python) | [Certificate](./certificates/Coursera_Certificate_StatisticsPython_SPECIALIZATION_2022.pdf) | :star: :star: :star: __ __
 - Data Science Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/data_science_udacity) | [Course Link](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | [Certificate](#) | :star: :star: :star: :star: __
+- Hyperparameter Optimization for Machine Learning, Udemy: [Guide & Code](https://github.com/mxagar/hyperparameter-optimization) | [Course Link](https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/) | [Certificate](./certificates/Udemy_Certificate_Hyperparameter_Optimization_2023.pdf) | :star: :star: :star: :star: __
 - Python for Data Science and Machine Learning Bootcamp, Udemy: [Guide & Code](https://github.com/mxagar/data_science_python_tools) | [Course Link](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | [Certificate](./certificates/Udemy_Certificate_DataScience_MachineLearning_2021.pdf) | :star: :star: :star: :star: __
 - Python for Computer Vision with OpenCV and Deep Learning, Udemy: [Guide & Code](https://github.com/mxagar/data_science_python_tools) | [Course Link](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) | [Certificate](./certificates/Udemy_Certificate_OpenCV_2021.pdf) | :star: :star: :star: :star: __
 - Natural Language Processing (NLP) with Python, Udemy: [Guide & Code](https://github.com/mxagar/nlp_guide) | [Course Link](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) | [Certificate](./certificates/Udemy_Certificate_NLP_Python_2022.pdf) | :star: :star: :star: :star: __

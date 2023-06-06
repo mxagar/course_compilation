@@ -33,6 +33,8 @@ For more related information, please, visit:
 - Natural Language Processing (NLP) with Python, Udemy: [Guide & Code](https://github.com/mxagar/nlp_guide) | [Course Link](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) | [Certificate](./certificates/Udemy_Certificate_NLP_Python_2022.pdf) | :star: :star: :star: :star: __
 - Practical AI and Reinforcement Learning with Python, Udemy: [Guide & Code](https://github.com/mxagar/data_science_python_tools/blob/main/24_ReinforcementLearning/ReinforcementLearning_Guide.md) | [Course Link](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/) | [Certificate](./certificates/Udemy_Certificate_AI_ReinforcementLearning_2022.pdf) | :star: :star: :star: __ __
 - Complete Tensorflow 2 and Keras Deep Learning Bootcamp, Udemy: [Guide & Code](https://github.com/mxagar/data_science_python_tools) | [Course Link](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/) | [Certificate](./certificates/Udemy_Certificate_Keras_Tensorflow_DL_2022.pdf) | :star: :star: :star: :star: __
+- Optical Character Recognition (OCR) in Python, Udemy: [Guide & Code](https://github.com/mxagar/ocr_guide) | [Course Link](https://www.udemy.com/course/ocr-optical-character-recognition-in-python/) | [Certificate](./certificates/Udemy_Certificate_OCR_2023.pdf) | :star: :star: :star: __ __
+
 
 ## Software Development & DevOps Courses
 

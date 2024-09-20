@@ -53,6 +53,7 @@ For more related information, please, visit:
 | Dive into Ansible, Udemy | [Guide](https://github.com/mxagar/tool_guides/tree/master/ansible) & [Code](https://github.com/mxagar/diveintoansible) | [Course Link](https://www.udemy.com/course/diveintoansible/) | [Certificate](./certificates/Udemy_Certificate_Ansible_2021.pdf) | :star: :star: :star: __ __ |
 | SQL Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | [Certificate](./certificates/Udemy_Certificate_SQL_2022.pdf) | :star: :star: :star: :star: __ |
 | AZ-900: Microsoft Azure Fundamentals, Udemy | [Guide & Code](https://github.com/mxagar/azure_guide) | [Course Link](https://www.udemy.com/course/az900-azure/) | [Certificate](./certificates/Udemy_Certificate_Azure_AZ900_2024.pdf) | :star: :star: :star: :star: __ |
+| Complete Guide to Elasticsearch, Udemy | [Guide & Code](https://github.com/mxagar/elastic_search_guide) | [Course Link](https://www.udemy.com/course/elasticsearch-complete-guide) | [Certificate](./certificates/Udemy_Certificate_Elasticsearch_2024.pdf) | :star: :star: :star: :star: __ |
 
 ## Management & Finance Courses
 

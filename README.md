@@ -7,7 +7,7 @@ For more related information, please, visit:
 - My **website/blog**: [mikelsagardia.io](https://mikelsagardia.io)
 - My **portfolio of projects**: [github.com/mxagar/project_compilation](https://github.com/mxagar/project_compilation)
 - The list of my **research papers**: [mikelsagardia.io/publications/](https://mikelsagardia.io/publications/)
-- My **resumé**: [https://mikelsagardia.io/assets/MikelSagardia_CV.pdf](https://mikelsagardia.io/assets/MikelSagardia_CV.pdf)
+- My **Curriculum Vitae (CV)**: [https://mikelsagardia.io/assets/MikelSagardia_CV.pdf](https://mikelsagardia.io/assets/MikelSagardia_CV.pdf)
 
 ### Table of Contents
 
@@ -22,6 +22,7 @@ For more related information, please, visit:
 
 | Course | Guide & Code | Course Link | Certificate | My Rating |
 | ------ | ------------- | ----------- | ----------- | ------ |
+| Generative AI Nanodegree, Udacity | [Guide & Code](https://github.com/mxagar/generative_ai_udacity) | [Course Link](https://www.udacity.com/course/generative-ai--nd608) | [Certificate](#) | :star: :star: :star: :star: __ |
 | Deep Learning Nanodegree, Udacity | [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | [Certificate](./certificates/Udacity_Deep_Learning_Nanodegree_2022.pdf) | :star: :star: :star: :star: __ |
 | Computer Vision Nanodegree, Udacity | [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | [Course Link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | [Certificate](./certificates/Udacity_Computer_Vision_Nanodegree_2022.pdf) | :star: :star: :star: __ __ |
 | Machine Learning DevOps Engineer Nanodegree, Udacity | [Guide & Code](https://github.com/mxagar/mlops_udacity) | [Course Link](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) | [Certificate](./certificates/Udacity_MLOps_Nanodegree_2023.pdf) | :star: :star: :star: :star: __ |
@@ -39,6 +40,7 @@ For more related information, please, visit:
 | Optical Character Recognition (OCR) in Python, Udemy | [Guide & Code](https://github.com/mxagar/ocr_guide) | [Course Link](https://www.udemy.com/course/ocr-optical-character-recognition-in-python/) | [Certificate](./certificates/Udemy_Certificate_OCR_2023.pdf) | :star: :star: :star: __ __ |
 | Hugging Face Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/tool_guides/tree/master/hugging_face) | [Course Link](https://www.udemy.com/course/complete-hugging-face-bootcamp) | [Certificate](./certificates/Udemy_Certificate_HuggingFace_2024.pdf) | :star: :star: :star: __ __ |
 | LangChain Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/tool_guides/tree/master/langchain) | [Course Link](https://www.udemy.com/course/langchain-with-python-bootcamp) | [Certificate](./certificates/Udemy_Certificate_LangChain_2024.pdf) | :star: :star: :star: __ __ |
+| Operationalizing LLMs on Azure, Coursera / Univ. Duke | [Guide & Code](https://github.com/mxagar/generative_ai_udacity/tree/main/06_RAGs_DeepDive/02_Azure_LLMs) | [Course Link](https://www.coursera.org/learn/llmops-azure) | [Certificate](./certificates/Coursera_Certificate_Operationalizing_LLMs_Azure_Duke_2025.pdf) | :star: :star: :star: :star: __ |
 
 
 ## Software Development & DevOps Courses
@@ -54,6 +56,7 @@ For more related information, please, visit:
 | SQL Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | [Certificate](./certificates/Udemy_Certificate_SQL_2022.pdf) | :star: :star: :star: :star: __ |
 | AZ-900: Microsoft Azure Fundamentals, Udemy | [Guide & Code](https://github.com/mxagar/azure_guide) | [Course Link](https://www.udemy.com/course/az900-azure/) | [Certificate](./certificates/Udemy_Certificate_Azure_AZ900_2024.pdf) | :star: :star: :star: :star: __ |
 | Complete Guide to Elasticsearch, Udemy | [Guide & Code](https://github.com/mxagar/elastic_search_guide) | [Course Link](https://www.udemy.com/course/elasticsearch-complete-guide) | [Certificate](./certificates/Udemy_Certificate_Elasticsearch_2024.pdf) | :star: :star: :star: :star: __ |
+
 
 ## Management & Finance Courses
 

@@ -18,7 +18,7 @@ For more related information, please, visit:
   - [Management \& Finance Courses](#management--finance-courses)
 <!--- [Robotics Courses](#Robotics-Courses)-->
 
-## Machine Learning Courses
+## Machine Learning and AI Courses
 
 | Course | Guide & Code | Course Link | Certificate | My Rating |
 | ------ | ------------- | ----------- | ----------- | ------ |

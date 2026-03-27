@@ -56,6 +56,7 @@ For more related information, please, visit:
 | SQL Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | [Certificate](./certificates/Udemy_Certificate_SQL_2022.pdf) | :star: :star: :star: :star: __ |
 | AZ-900: Microsoft Azure Fundamentals, Udemy | [Guide & Code](https://github.com/mxagar/azure_guide) | [Course Link](https://www.udemy.com/course/az900-azure/) | [Certificate](./certificates/Udemy_Certificate_Azure_AZ900_2024.pdf) | :star: :star: :star: :star: __ |
 | Complete Guide to Elasticsearch, Udemy | [Guide & Code](https://github.com/mxagar/elastic_search_guide) | [Course Link](https://www.udemy.com/course/elasticsearch-complete-guide) | [Certificate](./certificates/Udemy_Certificate_Elasticsearch_2024.pdf) | :star: :star: :star: :star: __ |
+| Codex - The Practical Guide, Udemy | [Guide & Code](https://github.com/mxagar/coding_coworking_agents_resources/tree/main/codex) | [Course Link](https://www.udemy.com/course/codex-the-practical-guide/) | [Certificate](./certificates/Udemy_Certificate_Codex_2026.pdf) | :star: :star: :star: :star: :star: |
 
 
 ## Management & Finance Courses

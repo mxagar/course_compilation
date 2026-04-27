@@ -41,6 +41,7 @@ For more related information, please, visit:
 | Hugging Face Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/tool_guides/tree/master/hugging_face) | [Course Link](https://www.udemy.com/course/complete-hugging-face-bootcamp) | [Certificate](./certificates/Udemy_Certificate_HuggingFace_2024.pdf) | :star: :star: :star: __ __ |
 | LangChain Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/tool_guides/tree/master/langchain) | [Course Link](https://www.udemy.com/course/langchain-with-python-bootcamp) | [Certificate](./certificates/Udemy_Certificate_LangChain_2024.pdf) | :star: :star: :star: __ __ |
 | Operationalizing LLMs on Azure, Coursera / Univ. Duke | [Guide & Code](https://github.com/mxagar/generative_ai_udacity/tree/main/06_RAGs_DeepDive/02_Azure_LLMs) | [Course Link](https://www.coursera.org/learn/llmops-azure) | [Certificate](./certificates/Coursera_Certificate_Operationalizing_LLMs_Azure_Duke_2025.pdf) | :star: :star: :star: :star: __ |
+| Fundamentals of Building AI Agents, Coursera / IBM | [Guide & Code](https://github.com/mxagar/agents_guide/tree/main/01_Fundamentals) | [Course Link](https://www.coursera.org/learn/fundamentals-of-building-ai-agents) | [Certificate](./certificates/Coursera_Fundamentals_AI_Agents_2026.pdf) | :star: :star: :star: :star: __ |
 
 
 ## Software Development & DevOps Courses

@@ -42,6 +42,7 @@ For more related information, please, visit:
 | LangChain Bootcamp, Udemy | [Guide & Code](https://github.com/mxagar/tool_guides/tree/master/langchain) | [Course Link](https://www.udemy.com/course/langchain-with-python-bootcamp) | [Certificate](./certificates/Udemy_Certificate_LangChain_2024.pdf) | :star: :star: :star: __ __ |
 | Operationalizing LLMs on Azure, Coursera / Univ. Duke | [Guide & Code](https://github.com/mxagar/generative_ai_udacity/tree/main/06_RAGs_DeepDive/02_Azure_LLMs) | [Course Link](https://www.coursera.org/learn/llmops-azure) | [Certificate](./certificates/Coursera_Certificate_Operationalizing_LLMs_Azure_Duke_2025.pdf) | :star: :star: :star: :star: __ |
 | Fundamentals of Building AI Agents, Coursera / IBM | [Guide & Code](https://github.com/mxagar/agents_guide/tree/main/01_Fundamentals) | [Course Link](https://www.coursera.org/learn/fundamentals-of-building-ai-agents) | [Certificate](./certificates/Coursera_Fundamentals_AI_Agents_2026.pdf) | :star: :star: :star: :star: __ |
+| Agentic AI with LangChain and LangGraph, Coursera / IBM | [Guide & Code](https://github.com/mxagar/agents_guide/tree/main/02_Langchain_Langgraph) | [Course Link](https://www.coursera.org/learn/agentic-ai-with-langchain-and-langgraph/) | [Certificate](./certificates/Coursera_LangChain_LangGraph_2026.pdf) | :star: :star: :star: :star: __ |
 
 
 ## Software Development & DevOps Courses
@@ -62,6 +63,7 @@ For more related information, please, visit:
 | Intro to MCP - Model Context Protocol, Udemy | [Guide & Code](https://github.com/mxagar/coding_coworking_agents_resources/tree/main/mcp) | [Course Link](https://www.udemy.com/course/intro-to-mcp-model-content-protocol-claude/) | [Certificate](./certificates/Udemy_Certificate_MCP_2026.pdf) | :star: :star: :star: __ __ |
 | Introduction to Back-End Development, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/01_Introduction) | [Course Link](https://www.coursera.org/learn/introduction-to-back-end-development) | [Certificate](./certificates/Coursera_Intro_Backend_2026.pdf) | :star: :star: :star: :star: __ |
 | Introduction to Databases for Back-End Development, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/02_Databases) | [Course Link](https://www.coursera.org/learn/intro-to-databases-back-end-development) | [Certificate](./certificates/Coursera_Databases_Backend_2026.pdf) | :star: :star: :star: :star: __ |
+
 
 ## Management & Finance Courses
 

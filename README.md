@@ -64,6 +64,7 @@ For more related information, please, visit:
 | Intro to MCP - Model Context Protocol, Udemy | [Guide & Code](https://github.com/mxagar/coding_coworking_agents_resources/tree/main/mcp) | [Course Link](https://www.udemy.com/course/intro-to-mcp-model-content-protocol-claude/) | [Certificate](./certificates/Udemy_Certificate_MCP_2026.pdf) | :star: :star: :star: __ __ |
 | Introduction to Back-End Development, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/01_Introduction) | [Course Link](https://www.coursera.org/learn/introduction-to-back-end-development) | [Certificate](./certificates/Coursera_Intro_Backend_2026.pdf) | :star: :star: :star: :star: __ |
 | Introduction to Databases for Back-End Development, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/02_Databases) | [Course Link](https://www.coursera.org/learn/intro-to-databases-back-end-development) | [Certificate](./certificates/Coursera_Databases_Backend_2026.pdf) | :star: :star: :star: :star: __ |
+| LLM Observability and Cost Management: Langfuse Monitoring, Udemy | [Guide & Code](https://github.com/mxagar/agents_guide/tree/main/04_Monitoring_LangFuse) | [Course Link](https://www.udemy.com/course/llm-observability-cost) | [Certificate](./certificates/Udemy_Certificate_LangFuse_2026.pdf) | :star: :star: :star: :star: __ |
 
 
 ## Management & Finance Courses

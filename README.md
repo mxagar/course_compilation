@@ -67,6 +67,7 @@ For more related information, please, visit:
 | LLM Observability and Cost Management: Langfuse Monitoring, Udemy | [Guide & Code](https://github.com/mxagar/agents_guide/tree/main/04_Monitoring_LangFuse) | [Course Link](https://www.udemy.com/course/llm-observability-cost) | [Certificate](./certificates/Udemy_Certificate_LangFuse_2026.pdf) | :star: :star: :star: :star: __ |
 | Django Web Framework, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/03_Django) | [Course Link](https://www.coursera.org/learn/django-web-framework) | [Certificate](./certificates/Coursera_Django_2026.pdf) | :star: :star: :star: :star: __ |
 | APIs, Authentication and Authorization with the Django Web Framework, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/04_APIs) | [Course Link](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer) | [Certificate](./certificates/Coursera_Django_APIs_2026.pdf) | :star: :star: :star: :star: __ |
+| The Full Stack with the Django Web Framework, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/05_FullStack) | [Course Link](https://www.coursera.org/learn/the-full-stack) | [Certificate](./certificates/Coursera_Django_Full_Stack_2026.pdf) | :star: :star: :star: :star: __ |
 
 
 ## Management & Finance Courses

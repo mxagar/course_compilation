@@ -68,6 +68,7 @@ For more related information, please, visit:
 | Django Web Framework, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/03_Django) | [Course Link](https://www.coursera.org/learn/django-web-framework) | [Certificate](./certificates/Coursera_Django_2026.pdf) | :star: :star: :star: :star: __ |
 | APIs, Authentication and Authorization with the Django Web Framework, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/04_APIs) | [Course Link](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer) | [Certificate](./certificates/Coursera_Django_APIs_2026.pdf) | :star: :star: :star: :star: __ |
 | The Full Stack with the Django Web Framework, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/05_FullStack) | [Course Link](https://www.coursera.org/learn/the-full-stack) | [Certificate](./certificates/Coursera_Django_Full_Stack_2026.pdf) | :star: :star: :star: :star: __ |
+| Testing AI Systems with DeepEval, Udemy | [Guide & Code](https://github.com/mxagar/llm_evaluation_guide/tree/main/03_DeepEval) | [Course Link](https://www.udemy.com/course/rag-llm-evaluation-ai-test) | [Certificate](./certificates/Udemy_Certificate_DeepEval_2026.pdf) | :star: :star: :star: __ __ |
 
 
 ## Management & Finance Courses

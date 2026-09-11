@@ -70,6 +70,7 @@ For more related information, please, visit:
 | The Full Stack with the Django Web Framework, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/05_FullStack) | [Course Link](https://www.coursera.org/learn/the-full-stack) | [Certificate](./certificates/Coursera_Django_Full_Stack_2026.pdf) | :star: :star: :star: :star: __ |
 | Implement NGINX Web Servers and Reverse Proxy Solutions, Coursera | [Guide & Code](https://github.com/mxagar/backend_django_guide/tree/main/08_NGINX_Caddy) | [Course Link](https://www.coursera.org/learn/implement-nginx-web-servers-and-reverse-proxy-solutions) | [Certificate](./certificates/Coursera_NGINX_2026.pdf) | :star: :star: :star: __ __ |
 | Testing AI Systems with DeepEval, Udemy | [Guide & Code](https://github.com/mxagar/llm_evaluation_guide/tree/main/03_DeepEval) | [Course Link](https://www.udemy.com/course/rag-llm-evaluation-ai-test) | [Certificate](./certificates/Udemy_Certificate_DeepEval_2026.pdf) | :star: :star: :star: __ __ |
+| Self-Hosting with Docker & Linux: Run Your Own Services, Udemy | [Guide & Code](https://github.com/mxagar/webapp_deployment_guide/tree/main/00_Self_Hosting_VPS) | [Course Link](https://www.udemy.com/course/self-hosting-docker-linux/) | [Certificate](./certificates/Udemy_SelfHostingVPS_2026.pdf) | :star: :star: :star: :star: __ |
 
 
 ## Management & Finance Courses

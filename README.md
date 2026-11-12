@@ -59,6 +59,7 @@ For more related information, please, visit:
 | Codex - The Practical Guide, Udemy | [Guide & Code](https://github.com/mxagar/coding_coworking_agents_resources/tree/main/codex) | [Course Link](https://www.udemy.com/course/codex-the-practical-guide/) | [Certificate](./certificates/Udemy_Certificate_Codex_2026.pdf) | :star: :star: :star: :star: :star: |
 | Claude Code - The Practical Guide, Udemy | [Guide & Code](https://github.com/mxagar/coding_coworking_agents_resources/tree/main/claude) | [Course Link](https://www.udemy.com/course/claude-code-the-practical-guide/) | [Certificate](./certificates/Udemy_Certificate_Claude_2026.pdf) | :star: :star: :star: :star: :star: |
 | Intro to MCP - Model Context Protocol, Udemy | [Guide & Code](https://github.com/mxagar/coding_coworking_agents_resources/tree/main/mcp) | [Course Link](https://www.udemy.com/course/intro-to-mcp-model-content-protocol-claude/) | [Certificate](./certificates/Udemy_Certificate_MCP_2026.pdf) | :star: :star: :star: __ __ |
+| Server Deployment and Containerization, Udacity | [Guide & Code](https://github.com/mxagar/webapp_deployment_guide/tree/main/01_ServerDeployment) | [Course Link](https://www.udacity.com/course/server-deployment-and-containerization--cd0157) | [Certificate](./certificates/Udacity_Certificate_ServerDeployment_2026.pdf) | :star: :star: :star: :star: __ |
 
 
 ## Management & Finance Courses
